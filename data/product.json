@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "name": "Agri Commodities",
+      "image": "/images/product/basmati-rice.png",
+      "slug": "agri-commodities",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Basmati Rice",
+          "image": "/images/product/basmati-rice.png",
+          "slug": "basmati-rice",
+          "products": [
+            {
+              "id": 1001,
+              "name": "Traditional Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "traditional-rice"
+            },
+            {
+              "id": 1002,
+              "name": "1121 Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "1121-basmati-rice"
+            },
+            {
+              "id": 1003,
+              "name": "1509 Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "1509-basmati-rice"
+            },
+            {
+              "id": 1004,
+              "name": "Sugandha Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "sugandha-basmati-rice"
+            },
+            {
+              "id": 1005,
+              "name": "Sella Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "sella-basmati-rice"
+            },
+            {
+              "id": 1006,
+              "name": "Pusa Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "pusa-basmati-rice"
+            },
+            {
+              "id": 1007,
+              "name": "1401 Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "1401-basmati-rice"
+            },
+            {
+              "id": 1008,
+              "name": "Sharbati Basmati Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "1401-basmati-rice"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Long Grain Rice",
+          "image": "/images/product/basmati-rice.png",
+          "slug": "long-grain-rice",
+          "products": [
+            {
+              "id": 1001,
+              "name": "IRRI-6 Long Grain Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "irri-6-long-grain-rice"
+            },
+            {
+              "id": 1002,
+              "name": "PR-106 Long Grain Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "pr-6-long-grain-rice"
+            },
+            {
+              "id": 1003,
+              "name": "PR-106 Long Grain Rice",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "pr-6-long-grain-rice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Construction Materials",
+      "image": "/images/product/basmati-rice.png",
+      "slug": "construction-materials",
+      "subcategories": [
+        {
+          "id": 201,
+          "name": "Cement",
+          "image": "/images/product/basmati-rice.png",
+          "slug": "cement",
+          "products": [
+            {
+              "id": 2001,
+              "name": "Portland Cement",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "portland-cement"
+            },
+            {
+              "id": 2002,
+              "name": "White Cement",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "white-cement"
+            },
+            {
+              "id": 2003,
+              "name": "TMT Steel",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "tmt-steel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Raw Materials",
+      "image": "/images/product/basmati-rice.png",
+      "slug": "raw-materials",
+      "subcategories": [
+        {
+          "id": 301,
+          "name": "Metals & Minerals",
+          "image": "/images/product/basmati-rice.png",
+          "slug": "metals-minerals",
+          "products": [
+            {
+              "id": 3001,
+              "name": "Iron Ore",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "iron-ore"
+            },
+            {
+              "id": 3002,
+              "name": "Bauxite",
+              "image": "/images/product/basmati-rice.png",
+              "slug": "bauxite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
