@@ -12,15 +12,15 @@ app.get("/", (req, res) => {
 });
 
 // NORMAL SEARCH (NO DEBOUNCE YET)
-// app.get("/api/search", (req, res) => {
-//   const q = req.query.q?.toLowerCase() || "";
+app.get("/api/search", (req, res) => {
+  const q = req.query.q?.toLowerCase() || "";
 
-//   const result = products.filter(p =>
-//     p.name.toLowerCase().includes(q)
-//   );
+  const result = products.filter(p =>
+    p.name.toLowerCase().includes(q)
+  );
 
-//   res.json(result);
-// });
+  res.json(result);
+});
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
